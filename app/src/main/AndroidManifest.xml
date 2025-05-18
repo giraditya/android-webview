@@ -1,12 +1,11 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.webviewapp">
 
-    <uses-permission android:name="android.permission.INTERNET"/>
-
     <application
-        android:usesCleartextTraffic="true"
         android:label="WebViewApp"
-        android:theme="@style/Theme.WebViewApp">
+        android:theme="@style/Theme.WebViewApp"
+        android:usesCleartextTraffic="true">
+        
         <activity android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
@@ -14,5 +13,7 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
+
     </application>
+
 </manifest>

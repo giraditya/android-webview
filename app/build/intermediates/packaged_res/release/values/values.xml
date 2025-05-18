@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WebViewApp</string>
+    <style name="Theme.WebViewApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+    </style>
+</resources>

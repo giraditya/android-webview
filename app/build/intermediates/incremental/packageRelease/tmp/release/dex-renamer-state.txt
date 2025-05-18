@@ -1,0 +1,4 @@
+#Sun May 18 11:28:31 ICT 2025
+base.0=/home/giriaditya/applications/android-webview/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
